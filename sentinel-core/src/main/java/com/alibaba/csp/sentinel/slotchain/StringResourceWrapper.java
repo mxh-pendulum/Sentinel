@@ -19,6 +19,8 @@ import com.alibaba.csp.sentinel.EntryType;
 import com.alibaba.csp.sentinel.ResourceTypeConstants;
 
 /**
+ * 资源包装
+ *
  * Common string resource wrapper.
  *
  * @author qinan.qn

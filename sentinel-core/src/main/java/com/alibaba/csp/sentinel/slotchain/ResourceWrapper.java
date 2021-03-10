@@ -19,6 +19,8 @@ import com.alibaba.csp.sentinel.EntryType;
 import com.alibaba.csp.sentinel.util.AssertUtil;
 
 /**
+ * 资源包装
+ *
  * A wrapper of resource name and type.
  *
  * @author qinan.qn
